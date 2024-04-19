@@ -1,19 +1,4 @@
-# The ASSIST Project
 
-The ASSIST project aims to make the world more accessible by helping the Deaf and Hard of Hearing DHH) community in India. Our aim is to build an AI powered Indian Sign Language (ISL) Translator, to enable easier communication between the DHH and hearing communities in work places.
-
-We're thankful to be recipients of Microsoft's AI For Accessibility Grant, 2021. To know more about our plans for the year, check out our <a href="/cslr/Plan.md" style="color:#0B87DA">Project Plan</a>
-
-<img src="./images/NISH_Course_Graduation.jpg" width="800" float="center" alt="Workplace English Graduation Ceremony" />
-<p style="text-align: center; font-style: italic;"> Participants of our educational course on teaching Workplace English to the Deaf </p>
-
-We seek to involve the DHH community in all our decisions. By conducting surveys and interviewing deaf participants, we learnt that:
-
-<img src="./images/Difficulties_dark.png" width="800" float="center" alt="Difficulties faced Chart" />
-
-The DHH community faces the largest challenges at the workplace, with 56% of our survey participants reporting difficulties in communicating with office colleagues. Workplace difficulties rank higher than any other situation - such as banks, while shopping, at restaurants, with family etc.
-
-<img src="./images/talking_to_others.png" width="800" float="center" alt="Talking to others Chart" />
 
 Communication is the biggest challenge for the deaf community at work. By conducting interviews with deaf participants, we learnt that they find it difficult to talk to their hearing managers and colleagues. The community is mainly only able to talk to an interpreter or to other deaf colleagues at work, and this prevents them from being able to voice concerns about serious work issues such as appraisals, promotions, salary hikes and other work-related matters. 
 
