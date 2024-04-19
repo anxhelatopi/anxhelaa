@@ -1,4 +1,4 @@
-# INCLUDE: A Large Scale Dataset for Isolated Indian Sign Language Recognition
+# INCLUDE: A Large Scale Dataset for Isolated Albanian Sign Language Recognition
 
 Read more about our previous work, INCLUDE, <a href="https://ai4bharat.org/include-dataset" style="color:#0B87DA">here</a>  
 
@@ -14,7 +14,7 @@ You can find the research publication <a href="https://dl.acm.org/doi/10.1145/33
 ```
 @inproceedings{10.1145/3394171.3413528,
 author = {Sridhar, Advaith and Ganesan, Rohith Gandhi and Kumar, Pratyush and Khapra, Mitesh},
-title = {INCLUDE: A Large Scale Dataset for Indian Sign Language Recognition},
+title = {INCLUDE: A Large Scale Dataset for Albanian Sign Language Recognition},
 year = {2020},
 isbn = {9781450379885},
 publisher = {Association for Computing Machinery},
