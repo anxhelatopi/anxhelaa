@@ -1,18 +1,17 @@
 # About us
 
-AI4Bharat is a voluntary community. Our team consists of students, professionals and NGOs from all around the world
-
+Sign Seers is a voluntary new group. Our team consists of students and aims to bring innovation and diversity.We want to make world a better place. 
 # Team
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/abdur-cool"><img src="https://avatars.githubusercontent.com/u/59405879?v=4" width="100px;" alt=""/><br /><sub><b>Abdur Rahman</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Prem-kumar27"><img src="https://avatars.githubusercontent.com/u/14202523?v=4" width="100px;" alt=""/><br /><sub><b>Prem Selvaraj</b></sub></a></td>
-    <td align="center"><a href="https://github.com/roshni-poddar"><img src="https://avatars.githubusercontent.com/u/41294786?v=4" width="100px;" alt=""/><br /><sub><b>Roshni Poddar</b></sub></a></td>
+    <td align="center"><a href="https://github.com/abdur-cool"><br /><sub><b>Kristina Xega</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Prem-kumar27"><br /><sub><b>Natalia Baki</b></sub></a></td>
+    <td align="center"><a href="https://github.com/roshni-poddar"><br /><sub><b>Hrisa Hanxhara</b></sub></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/aravint-annamalai"><img src="https://avatars.githubusercontent.com/u/58785632?v=4" width="100px;" alt=""/><br /><sub><b>Aravint Annamalai</b></sub></a></td>
-    <td align="center"><a href="https://github.com/GokulNC"><img src="https://avatars.githubusercontent.com/u/10559293?v=4" width="100px;" alt=""/><br /><sub><b>Gokul NC</b></sub></a></td>
+    <td align="center"><a href="https://github.com/aravint-annamalai"><br /><sub><b>Sabiana Hasimllari</b></sub></a></td>
+    <td align="center"><a href="https://github.com/GokulNC"><br /><sub><b>Sara Xhaferi</b></sub></a></td>
   </tr>
 </table>
 
@@ -20,7 +19,7 @@ AI4Bharat is a voluntary community. Our team consists of students, professionals
 
 <table>
   <tr>
-    <td align="center"><a href="http://github.com/gRohith327"><img src="https://avatars0.githubusercontent.com/u/36641932?v=4" width="100px;" alt=""/><br /><sub><b>Rohith Gandhi Ganesan</b></sub></a></td>
+    <td align="center"><a href="http://github.com/gRohith327"><br /><sub><b>Ildiana Teneqexhi</b></sub></a></td>
   </tr>
  </table>
  
@@ -28,11 +27,11 @@ AI4Bharat is a voluntary community. Our team consists of students, professionals
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/ads97"><img src="https://avatars0.githubusercontent.com/u/36174577?v=4" width="100px;" alt=""/><br /><sub><b>Advaith Sridhar</b></sub></a></td>
+    <td align="center"><a href="https://github.com/ads97"><br /><sub><b>Dhimitra Koroveshi</b></sub></a></td>
   </tr>
  </table>
  
 <h1>Contact us</h1>
 
 Please raise an issue on our GitHub repo for technical clarifications.  
-For general queries, please write to advaith@ai4bharat.org
+For general queries, please write to kristinaxega@yahoo.com
