@@ -1,3 +1,3 @@
-# Indian Sign Language
+# ALbanian Sign Language
 
 Check [Project Website](https://sign-language.ai4bharat.org)
